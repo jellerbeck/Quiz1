@@ -3,6 +3,7 @@
 //  Quiz
 //
 //  Created by Jason Ellerbeck on 1/10/18.
+//  High Point University
 //  Copyright © 2018 Jason Ellerbeck. All rights reserved.
 //
 
